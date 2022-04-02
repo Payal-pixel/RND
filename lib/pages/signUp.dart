@@ -23,7 +23,6 @@ class signUp extends StatelessWidget {
               height: 20.0,
             ),
             TextFormField(
-              obscureText: true,
               decoration: InputDecoration(
                   hintText: "Enter Username", labelText: "Username"),
             ),
@@ -47,7 +46,6 @@ class signUp extends StatelessWidget {
               height: 20.0,
             ),
             TextFormField(
-              obscureText: true,
               decoration:
                   InputDecoration(hintText: "Enter Email", labelText: "Email"),
             ),
@@ -55,7 +53,6 @@ class signUp extends StatelessWidget {
               height: 20.0,
             ),
             TextFormField(
-              obscureText: true,
               decoration: InputDecoration(
                   hintText: "Enter Phone-no", labelText: "Phone-no"),
             ),
